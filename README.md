@@ -1,7 +1,47 @@
-- 👋 Hi, I’m @daniel-mutuku
-- A highly skilled Full Stack Software Developer with a passion for delivering exceptional mobile and web applications. Proficient in a range of technologies including Java & Flutter for mobile apps, Native PHP, Laravel, and Codeigniter for web apps, and REST APIs using Flask, Django, Codeigniter & Laravel. Experienced in developing and administering USSD applications using Laravel, Codeigniter and Native PHP. 
+## Backend Systems Engineering (Go)
 
-- Additionally, well-versed in basic server administration for Linux based servers and database development and administration for MySQL and PostgreSQL. With a proven track record of delivering high-quality and efficient code, I am committed to delivering outstanding results for my clients. Let's work together to bring your ideas to life and take your digital presence to the next level.
+I’m a professional software engineer with 7+ years of experience building
+production systems for real businesses.
 
-- 💞️ I’m looking to collaborate on any development project.
-- 📫 You can reach me on my email : daniel.mutuku404@gmail.com or on Linkedin: https://www.linkedin.com/in/daniel-mutuku-404/
+This GitHub documents a deliberate shift from application-level backend work
+into backend systems engineering, with a focus on understanding how systems
+behave under load, partial failure, and scale.
+
+Primary areas of focus:
+- Concurrency & parallelism
+- Distributed systems & coordination
+- Networking & protocols
+- Reliability, observability & failure modes
+- Security fundamentals
+
+Primary language:
+- Go
+
+### How to Read This GitHub
+
+This is not a collection of CRUD applications.
+
+Most repositories here are focused experiments or system-level prototypes.
+Each repo typically includes:
+- A clear problem statement
+- Design notes or tradeoffs
+- Experiments or benchmarks
+- Observations about failure modes
+
+### Current Focus
+
+- Concurrency & coordination in Go
+- Failure-aware system design
+- Networking fundamentals
+- Distributed systems primitives
+
+### Selected Work
+
+- go-concurrency-lab *(in progress)*
+- goroutine-leaks-lab *(planned)*
+- failure-lab-go *(planned)*
+
+### Writing
+
+- Medium: https://medium.com/@daniel.mutuku404
+- LinkedIn: https://www.linkedin.com/in/daniel-mutuku-404/
