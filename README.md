@@ -28,19 +28,6 @@ Each repo typically includes:
 - Experiments or benchmarks
 - Observations about failure modes
 
-### Current Focus
-
-- Concurrency & coordination in Go
-- Failure-aware system design
-- Networking fundamentals
-- Distributed systems primitives
-
-### Selected Work
-
-- go-concurrency-lab *(in progress)*
-- goroutine-leaks-lab *(planned)*
-- failure-lab-go *(planned)*
-
 ### Writing
 
 - Medium: https://medium.com/@daniel.mutuku404
