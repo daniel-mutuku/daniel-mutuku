@@ -8,11 +8,12 @@ into backend systems engineering, with a focus on understanding how systems
 behave under load, partial failure, and scale.
 
 Primary areas of focus:
-- Concurrency & parallelism
-- Distributed systems & coordination
-- Networking & protocols
-- Reliability, observability & failure modes
-- Security fundamentals
+- Distributed systems & microservices
+- Event-driven and messaging-based architectures
+- Data-intensive applications
+- Concurrency and parallel processing
+- System reliability, observability, and failure handling
+- Backend performance and security fundamentals
 
 Primary language:
 - Go
