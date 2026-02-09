@@ -15,8 +15,9 @@ Primary areas of focus:
 - System reliability, observability, and failure handling
 - Backend performance and security fundamentals
 
-Primary language:
+Primary languages:
 - Go
+- Node.js
 
 ### How to Read This GitHub
 
