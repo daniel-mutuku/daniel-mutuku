@@ -7,14 +7,6 @@ This GitHub documents a deliberate shift from application-level backend work
 into backend systems engineering, with a focus on understanding how systems
 behave under load, partial failure, and scale.
 
-Primary areas of focus:
-- Distributed systems & microservices
-- Event-driven and messaging-based architectures
-- Data-intensive applications
-- Concurrency and parallel processing
-- System reliability, observability, and failure handling
-- Backend performance and security fundamentals
-
 Primary languages:
 - Go
 
@@ -23,11 +15,6 @@ Primary languages:
 This is not a collection of CRUD applications.
 
 Most repositories here are focused experiments or system-level prototypes.
-Each repo typically includes:
-- A clear problem statement
-- Design notes or tradeoffs
-- Experiments or benchmarks
-- Observations about failure modes
 
 ### Writing
 
