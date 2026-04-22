@@ -17,7 +17,6 @@ Primary areas of focus:
 
 Primary languages:
 - Go
-- Node.js
 
 ### How to Read This GitHub
 
